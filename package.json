@@ -1,0 +1,12 @@
+{
+  "name": "depenscope",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Renan YHUEL",
+  "license": "MIT",
+  "description": "DepenScoop is a tool that analyzes and visualizes dependencies between files in a GitHub repository. It helps explore file relationships with an interactive graph, making it easier to understand and navigate complex codebases."
+}
