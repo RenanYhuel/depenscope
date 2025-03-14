@@ -11,7 +11,7 @@ DepenScoop is a visual dependency explorer for Git repositories. It helps develo
 
 ## Tech Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS
+- **Frontend**: Next.js, React
 - **Backend**: NestJS (for dependency analysis)
 - **Database**: None (local storage for V1)
 
